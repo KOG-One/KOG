@@ -1,0 +1,2 @@
+# KOG
+KShekel Token
